@@ -10,6 +10,8 @@
 
 - 포트폴리오
 
+1일차 : CLI, Vscode, Markdown, Git 기초, Github
+
 
 
 
