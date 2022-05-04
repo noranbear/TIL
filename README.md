@@ -26,21 +26,27 @@
 - [2022-04-07]
 - [2022-04-08]
 
+---
+
 ### Java
 
-Proejcts are in Java Repository.
+Proejcts are in [Java Repository](https://github.com/noranbear/Java.git).
 
-- [2022-04-04] [Day01](https://github.com/noranbear/Java.git)
+- [2022-04-04] Day01
+- [2022-04-05] Day02
+- [2022-04-06] Day03
+- [2022-04-11] Day04
+- [2022-04-12] Day05
 
-- [2022-04-05] [Day02](https://github.com/noranbear/Java.git)
+---
 
-- [2022-04-06] [Day03](https://github.com/noranbear/Java.git)
+### SQL / DB
 
-- [2022-04-11] [Day04](https://github.com/noranbear/Java.git)
+Proejcts are in [SQL Repository](https://github.com/noranbear/SQL.git).
 
-- [2022-04-12] [Day05](https://github.com/noranbear/Java.git)
+- [2022-05-02] Day18
 
-  
+- [2022-05-04] Day20
 
 
 
