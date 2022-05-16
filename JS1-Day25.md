@@ -14,7 +14,7 @@ Section 2. CSS - P41
 
 Section 3. JavaScipt
 
-[A](https://github.com/noranbear/Java.git/README.md/#날짜)
+[A](noranbear/Java/README.md/#날짜)
 
 <br>
 
