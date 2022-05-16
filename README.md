@@ -2,9 +2,7 @@
 
 2022-04-01 시작
 
-
-
-## 프로그램
+[![noranbear's github stats](https://github-readme-stats.vercel.app/api?username=noranbear)](https://github.com/noranbear/github-readme-stats)
 
 - 멀티캠퍼스 [14회차] AI플랫폼을 활용한 웹서비스 개발 
 
@@ -16,6 +14,8 @@
 
 1. [Git](#Git)
 2. [Java](#Java)
+2. [SQL](#SQL)
+2. [WEB](#WEB)
 
 
 
@@ -30,7 +30,7 @@
 
 ### Java
 
-Proejcts are in [Java Repository](https://github.com/noranbear/Java.git).
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=noranbear&repo=Java" alt="noranbear's Java repo stats" style="align:left;" />
 
 - [2022-04-04] Day01
 - [2022-04-05] Day02
@@ -42,7 +42,7 @@ Proejcts are in [Java Repository](https://github.com/noranbear/Java.git).
 
 ### SQL / DB
 
-Proejcts are in [SQL Repository](https://github.com/noranbear/SQL.git).
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=noranbear&repo=SQL" alt="noranbear's SQL repo stats" style="align:left;" />
 
 - [2022-05-02] Day18
 
@@ -50,3 +50,10 @@ Proejcts are in [SQL Repository](https://github.com/noranbear/SQL.git).
 
 
 
+### WEB
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=noranbear&repo=WEB" alt="noranbear's WEB repo stats" style="align:left;" />
+
+- JavaScript
+  - 2022-05-16 Day25
+    - JavaScript 개념 - Day05
