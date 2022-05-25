@@ -57,3 +57,9 @@
 - JavaScript
   - 2022-05-16 Day25
     - JavaScript 개념 - Day05
+
+- Kakaomap & Data
+  - 2022-05-24 Day30
+    - Kakaomap 환경 설정 및 사용 - Day01
+  - 2022-05-25 Day31
+    - Kakaomap 응용 및 data 가져오기 - Day02
